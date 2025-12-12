@@ -72,7 +72,7 @@ class Student{
     }
 }
 
-class StudentGradeTracker{
+class Student_Grade_Tracker{
 
     public static void main(String[] args){
         Scanner sc  = new Scanner(System.in);
